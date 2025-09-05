@@ -6,3 +6,6 @@ This article interested me because it reframes the popular narrative of AI’s r
 Abdul Rehman Waheed.
 # Proof Reading
 Article checked for typos
+
+# Syed Ibtisam Ejaz Comment:
+I liked the part where it talked about how Ai is helping them remove outdated code, and removing inefficiency.
